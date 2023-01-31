@@ -3,7 +3,7 @@
   "description": "Popup cat picture when you clap",
   "version": "1.0.0",
   "manifest_version": 3,
-  "permissions": ["storage", "activeTab"],
+  "permissions": [],
   "action": {
     "default_icon": {
       "16": "/images/cat16.png",
