@@ -2,7 +2,7 @@
 
 ![build](https://github.com/chibat/chrome-extension-typescript-starter/workflows/build/badge.svg)
 
-- The extension is currently under review to be placed in the google chrome extension store. I will put a link here when it got accepted.
+- The extension is currently available on [chrome web store](https://chrome.google.com/webstore/detail/clap-for-cat/cjphabmpepelpkgchldamebdmgeifipo)
 - This chrome extension is designed to open a new tab with a picture/gif of a random cat whenever it recognized a "Clap" sound. It also will pop up a random picture/gid of a cat every time you click on the extension icon.
 - It will require permission to your audio in order to trigger the cat picture/gif
 - The purpose of this extension is to cheer users up with just a simple "Clap" 😉
